@@ -124,3 +124,35 @@ input{
 .parrafo--idioma{
     color: rgb(77, 134, 240);
 }
+
+/*Footer*/
+
+footer{
+    position: relative;
+    background-color: #171717;
+    font-family: Arial, sans-serif;
+    color: #bdc1c6;
+}
+
+.footer__container{
+    background-color: #171717;
+    position: absolute;
+    top: 175px;
+    color: #bdc1c6;
+    padding-top:30px;
+    padding-bottom: 15px;
+    padding-right: 993px;
+}
+
+.footer__top{
+    border-bottom: 1px solid #3c4043;
+    color: #9aa0a6;
+    font-size: 14px;
+    padding-bottom: 10px;
+}
+
+.footer__bottom{
+    color: #9aa0a6;
+    font-size: 14px;
+    padding-bottom: 10px;
+}
